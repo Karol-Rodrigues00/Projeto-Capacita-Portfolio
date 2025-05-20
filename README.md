@@ -67,7 +67,7 @@ Quer me mandar um comentário ou mensagem? Basta usar o formulário no final da 
 
 ## 🔗 Acesse o Site
 
-🌐 [Clique aqui para ver meu portfólio online](https://seuusuario.github.io/portfolio-karolyne)
+🌐 [Clique aqui para ver meu portfólio online](https://karol-rodrigues00.github.io/Projeto-Capacita-Portfolio/)
 
 ---
 
